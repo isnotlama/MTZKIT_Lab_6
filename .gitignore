@@ -1,0 +1,2 @@
+echo **/obj/**&gt;&gt; .gitignore
+echo **/bin/**&gt;&gt; .gitignore
